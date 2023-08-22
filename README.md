@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hello! 👋 My name is Andre Martin a Web Developer from Sacramento, CA.</h1>
+<h1 align="center">Hello! 👋 My name is Andre Martin, a Web Developer from Sacramento, CA.</h1>
 
 ###
 
